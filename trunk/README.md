@@ -11,11 +11,11 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 This plugin display quotes from songs by Venezuelan Singer-songwriter Simón Díaz in dashboard. 
 
-It's inspired in "[Hello Dolly](https://wordpress.org/plugins/hello-dolly/)" plugin by Matt Mullenweg.
-
 == Description ==
 
 This plugin display quotes from songs by Venezuelan Singer-songwriter Simón Díaz in dashboard.
+
+It's inspired in "[Hello Dolly](https://wordpress.org/plugins/hello-dolly/)" plugin by Matt Mullenweg.
 
 == Installation ==
 = Automatic installation =

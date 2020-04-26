@@ -88,7 +88,7 @@ function hola_tio_simon()
 
 	printf(
 		'<p id="tio-simon"><span class="screen-reader-text">%s </span><span dir="ltr"%s>«%s»</span> <strong>—Simón Díaz</strong></p>',
-		__('Quotes from song lyrics by Simón Díaz:', 'hola-tio-simon'),
+		__('Quote from song lyrics by Simón Díaz:', 'hola-tio-simon'),
 		$lang,
 		$chosen
 	);
