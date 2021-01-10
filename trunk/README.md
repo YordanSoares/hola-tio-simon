@@ -3,7 +3,7 @@ Contributors: yordansoares
 Donate link: https://yordansoar.es/
 Tags: venezuela, simon diaz, musica venezolana, folklore venezolano, tonadas
 Requires at least: 3.0
-Tested up to: 5.5
+Tested up to: 5.6
 Requires PHP: 7.0
 Stable tag: 1.0
 License: GPLv2 or later
